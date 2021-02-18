@@ -4,7 +4,7 @@ A contract simulating a magic eight ball. It will randomly return one of eight r
 
 ## Usage
 
-The contract uses one main methods: `get-eight-ball-decision-at`.
+The contract uses one main method: `get-eight-ball-decision-at`.
 
 ### `get-eight-ball-decision-at`
 
